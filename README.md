@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![](https://raw.githubusercontent.com/irosen419/irosen419-/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 <!--
